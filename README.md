@@ -8,9 +8,6 @@
                                                                                                                                                      
 ```
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow)
-![ALPHA](https://img.shields.io/badge/ALPHA-red) 
-![LINUX](https://img.shields.io/badge/Debian-LINUX-orange)
-
 
 # Pexels Video Downloader 🎥
 
