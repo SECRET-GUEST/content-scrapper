@@ -7,11 +7,8 @@
 ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝      ╚═══╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═╝
                                                                                                                                                      
 ```
-
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow)
-
 ![ALPHA](https://img.shields.io/badge/ALPHA-red) 
-
 ![LINUX](https://img.shields.io/badge/Debian-LINUX-orange)
 
 
@@ -66,11 +63,11 @@ If you have any questions or need support, please feel free to open an issue, a 
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone -b pexel_video https://github.com/SECRET-GUEST/content-scrapper.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd your-repo-name
+cd pexel_video
 ```
 3. Install the necessary Node.js packages.
 ```bash
